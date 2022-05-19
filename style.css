@@ -1,0 +1,64 @@
+body{
+    background-size: cover;
+}
+#note{
+    color: black;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.heading{
+    font-size: 25px ;
+    width: 100%;
+    margin: 0px;
+    border-radius: 20px ;
+}
+
+.Button{
+    font-size: 24px;
+    margin: 60px;
+    width:120px;
+}
+
+.Speed{
+
+font-size: 23px;
+margin: 15px;
+}
+
+.speed_image{
+    border-radius: 100%;
+    width: 200px;
+    
+    
+}
+.div_speed{
+    float:left;
+}
+.div_volume{
+    float:right;
+}
+.volume_image{
+    border-radius: 100%;
+    width: 200px;
+    
+    
+}
+
+.Volume{
+
+    font-size: 23px;
+    margin: 15px;
+    }
+
+    canvas{
+        background-color: black;
+        border-radius: 10px;
+        border-style: groove;
+        margin-top: 150px;
+    }
+    .Button_pause{
+        font-size: 24px;
+    margin: 60px;
+    width:120px;
+
+    }
